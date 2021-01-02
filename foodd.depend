@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1581596570 source:c:\users\foram\desktop\codeblocks\foodd\main.c
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
